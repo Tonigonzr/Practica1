@@ -29,4 +29,12 @@
       return edad;
    }
 
-}//fin Persona
+   public void setpoblacion(String poblacion){
+   poblacion = poblacion;
+   }
+
+   public String poblacion(){
+   return poblacion;
+   }
+
+   }//fin Persona
